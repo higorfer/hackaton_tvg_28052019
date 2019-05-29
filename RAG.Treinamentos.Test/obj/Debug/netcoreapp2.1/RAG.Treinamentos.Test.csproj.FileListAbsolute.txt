@@ -1,0 +1,14 @@
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Test.deps.json
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Test.runtimeconfig.json
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Test.runtimeconfig.dev.json
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Test.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Test.pdb
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Test.csproj.CoreCompileInputs.cache
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Test.AssemblyInfoInputs.cache
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Test.AssemblyInfo.cs
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Test.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Test.pdb
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Test\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Test.csprojAssemblyReference.cache

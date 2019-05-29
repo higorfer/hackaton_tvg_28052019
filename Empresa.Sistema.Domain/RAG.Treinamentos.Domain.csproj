@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\Converters\**" />
+    <Compile Remove="Data\Converter\**" />
+    <EmbeddedResource Remove="Data\Converters\**" />
+    <EmbeddedResource Remove="Data\Converter\**" />
+    <None Remove="Data\Converters\**" />
+    <None Remove="Data\Converter\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Tapioca.HATEOAS" Version="1.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Empresa.Sistema.Infra\RAG.Treinamentos.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

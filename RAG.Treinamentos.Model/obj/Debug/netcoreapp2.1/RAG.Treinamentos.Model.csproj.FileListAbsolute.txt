@@ -1,0 +1,9 @@
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Model\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Model.deps.json
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Model\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Model.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Model\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Model.pdb
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Model\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Model.csproj.CoreCompileInputs.cache
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Model\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Model.AssemblyInfoInputs.cache
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Model\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Model.AssemblyInfo.cs
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Model\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Model.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Model\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Model.pdb
+D:\ProjetoAulas\Empresa.Sistema.Projetos\RAG.Treinamentos.Model\obj\Debug\netcoreapp2.1\RAG.Treinamentos.Model.csprojAssemblyReference.cache

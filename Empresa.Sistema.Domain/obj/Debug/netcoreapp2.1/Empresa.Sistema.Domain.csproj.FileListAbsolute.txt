@@ -1,0 +1,14 @@
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\bin\Debug\netcoreapp2.1\Empresa.Sistema.Domain.deps.json
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\bin\Debug\netcoreapp2.1\Empresa.Sistema.Domain.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\bin\Debug\netcoreapp2.1\Empresa.Sistema.Domain.pdb
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\obj\Debug\netcoreapp2.1\Empresa.Sistema.Domain.csprojAssemblyReference.cache
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\obj\Debug\netcoreapp2.1\Empresa.Sistema.Domain.csproj.CoreCompileInputs.cache
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\obj\Debug\netcoreapp2.1\Empresa.Sistema.Domain.AssemblyInfoInputs.cache
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\obj\Debug\netcoreapp2.1\Empresa.Sistema.Domain.AssemblyInfo.cs
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\obj\Debug\netcoreapp2.1\Empresa.Sistema.Domain.csproj.CopyComplete
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\obj\Debug\netcoreapp2.1\Empresa.Sistema.Domain.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\obj\Debug\netcoreapp2.1\Empresa.Sistema.Domain.pdb
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Model.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Model.pdb
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Infra.dll
+D:\ProjetoAulas\Empresa.Sistema.Projetos\Empresa.Sistema.Domain\bin\Debug\netcoreapp2.1\RAG.Treinamentos.Infra.pdb
